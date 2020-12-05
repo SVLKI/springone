@@ -1,0 +1,8 @@
+server:
+   port: 9098
+#eureka:         #tells about the Eureka server details and its refresh time
+ # client:
+  #  serviceUrl:
+   #   defaultZone: http://127.0.0.1:9761/eureka/
+    #healthcheck:
+     # enabled: true
